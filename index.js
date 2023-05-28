@@ -1,0 +1,1 @@
+console.log("MY STATIC SERVER IMPLENTATION");
